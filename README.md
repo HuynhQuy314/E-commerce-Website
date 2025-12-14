@@ -1,17 +1,4 @@
 =====================================================================
-                     FINAL PROJECT
-=====================================================================
-
-Course: Web Application Development with NodeJS
-Instructor: ThS. Dương Hữu Phước
-Members:
-  - Dương Phước Thuận – 52200146
-  - Lê Huỳnh Quý – 52200157
-  - Võ Hồng Phúc – 52200318
-Github:  https://github.com/PhuocThuan246/E-commerce-Website
-Video demo:  https://drive.google.com/file/d/1WX4jIHnTz29_82kk-Spg7RyzrrBaca-U/view?usp=sharing
-
-=====================================================================
 1. PROJECT OVERVIEW
 =====================================================================
 E-Shop is a full-stack e-commerce website built with:
